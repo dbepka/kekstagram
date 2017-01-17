@@ -6,12 +6,12 @@
   "author": "Сергей Попов",
   "repository": {
     "type": "git",
-    "url": "git://github.com/htmlacademy-javascript/42761-kekstagram.git"
+    "url": "git://github.com/dbepka/kekstagram.git"
   },
   "bugs": {
-    "url": "https://github.com/htmlacademy-javascript/42761-kekstagram/issues"
+    "url": "https://github.com/dbepka/kekstagram/issues"
   },
-  "homepage": "https://github.com/htmlacademy-javascript/42761-kekstagram",
+  "homepage": "https://github.com/dbepka/kekstagram",
   "dependencies": {
     "eslint": "^1.10.3",
     "http-server": "^0.8.5"
